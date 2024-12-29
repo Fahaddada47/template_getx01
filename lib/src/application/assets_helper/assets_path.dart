@@ -1,0 +1,63 @@
+class AssetsPath {
+  AssetsPath._();
+
+  static const String _iconsPath = 'assets/icons';
+  static const String _imagesPath = 'assets/images';
+  static const String _logoPath = 'assets/logo';
+
+  static String threeDotIconSvg = '$_iconsPath/three_dot_icon.svg';
+  static String googleIconSvg = '$_iconsPath/google.svg';
+  static String facebookIconSvg = '$_iconsPath/facebook.svg';
+  static String eyeOffIconSvg = '$_iconsPath/eyeOff.svg';
+  static String eyeOpenIconSvg = '$_iconsPath/eyeOpen.svg';
+  static String adIconSvg = '$_iconsPath/ad.svg';
+  static String addQuesIconSvg = '$_iconsPath/add_question.svg';
+  static String xIconSvg = '$_iconsPath/x.svg';
+  static String bankIconSvg = '$_iconsPath/bank.svg';
+  static String dollarIconSvg = '$_iconsPath/dollar.svg';
+  static String itemIconSvg = '$_iconsPath/items.svg';
+  static String likeIconSvg = '$_iconsPath/like.svg';
+  static String noLogIconSvg = '$_iconsPath/noLog.svg';
+  static String cloudIconSvg = '$_iconsPath/cloud.svg';
+  static String downloadIconSvg = '$_iconsPath/download.svg';
+  static String editIconSvg = '$_iconsPath/edit.svg';
+  static String shareIconSvg = '$_iconsPath/share.svg';
+  static String upload2IconSvg = '$_iconsPath/upload02.svg';
+  static String sampleLog = '$_logoPath/img.png';
+
+  static String tagIconSvg = '$_iconsPath/tag.svg';
+  static String mobileBankIconSvg = '$_iconsPath/mobile_bank.svg';
+  static String notificationIconSvg = '$_iconsPath/notification.svg';
+  static String salesIconSvg = '$_iconsPath/sales.svg';
+  static String mapIconSvg = '$_iconsPath/map.svg';
+  static String cameraIconSvg = '$_iconsPath/camera.svg';
+  static String uploadIconSvg = '$_iconsPath/upload.svg';
+  static String threeIconSvg = '$_iconsPath/threeDot.svg';
+  static String taskIconSvg = '$_iconsPath/task.svg';
+  static String verifyIconSvg = '$_iconsPath/verify.svg';
+  static String callIconSvg = '$_iconsPath/call.svg';
+  static String deleteIconSvg = '$_iconsPath/delete.svg';
+  static String phoneIconSvg = '$_iconsPath/phone.svg';
+  static String mailIconSvg = '$_iconsPath/mail.svg';
+  static String homeIconSvg = '$_iconsPath/home.svg';
+  static String logIconSvg = '$_iconsPath/log.svg';
+  static String bookmarkIconSvg = '$_iconsPath/bookmark.svg';
+  static String share2IconSvg = '$_iconsPath/share2.svg';
+  static String volumeIconSvg = '$_iconsPath/volume.svg';
+  static String percentageIconSvg = '$_iconsPath/percentage.svg';
+  static String copyIconSvg = '$_iconsPath/copy_icon.svg';
+  static String userProfile = '$_imagesPath/toni_kroos.jpg';
+  static String logImage = '$_imagesPath/log.png';
+  static String AuthBg1 = '$_imagesPath/auth_bg1.png';
+  static String AuthBg2 = '$_imagesPath/auth_bg2.png';
+  static String AuthBg3 = '$_imagesPath/auth_bg3.png';
+  static String AuthBg4 = '$_imagesPath/auth_bg4.png';
+  static String addIconSvg = '$_iconsPath/add_icon.svg';
+  static String buyerIconSvg = '$_iconsPath/buyer.svg';
+  static String reportIconSvg = '$_iconsPath/report_icon.svg';
+  static String closeIconSvg = '$_iconsPath/close_icon.svg';
+  static String emailIconSvg = '$_iconsPath/email.svg';
+  static String menuIconSvg = '$_iconsPath/menu_icon.svg';
+  static String timerIconSvg = '$_iconsPath/timer.svg';
+  static String appLogoPng = '$_logoPath/logo.png';
+}
